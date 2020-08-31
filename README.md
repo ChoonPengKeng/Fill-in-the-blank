@@ -1,2 +1,2 @@
 # Fill-in-the-blank
-data structure assignment please download the zip to run the code
+Please download the zip file to run the code
